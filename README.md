@@ -28,3 +28,6 @@ python main.py
 ```sh
 python main.py --mode test --ckpt_path [your_ckpt_file_path]
 ```
+
+## Paper Link
+https://arxiv.org/pdf/2009.05092.pdf
