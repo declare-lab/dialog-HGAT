@@ -62,7 +62,7 @@ parser.add_argument('--dropout_rate', type=float, default=0.3, help="dropout rat
 
 parser.add_argument('--rm_stopwords', type=bool, default=False, help='Remove stopwords in global word Node')
 
-rgs = parser.parse_args()
+args = parser.parse_args()
 
 
 
