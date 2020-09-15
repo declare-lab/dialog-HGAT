@@ -8,10 +8,9 @@ Next Install the required libraries:
 1. Assume you have installed Pytorch >= 1.5
 2. Install dgl library according to your cuda version using the commands below
 ```sh
-pip install --pre dgl-cu90      # For CUDA 9.0 Build
-pip install --pre dgl-cu92      # For CUDA 9.2 Build
 pip install --pre dgl-cu100     # For CUDA 10.0 Build
 pip install --pre dgl-cu101     # For CUDA 10.1 Build
+pip install --pre dgl-cu102     # For CUDA 10.2 Build
 ```
 3. Install PytorchLightning [github](https://github.com/PyTorchLightning/pytorch-lightning)
 4. Install from requirements.txt by `pip install -r requirements.txt`
