@@ -13,8 +13,7 @@ pip install --pre dgl-cu101     # For CUDA 10.1 Build
 pip install --pre dgl-cu102     # For CUDA 10.2 Build
 ```
 3. Install PytorchLightning [github](https://github.com/PyTorchLightning/pytorch-lightning)
-4. Install from requirements.txt by `pip install -r requirements.txt`
-
+4. Install from requirements.txt by `pip install -r requirements.txt` and run `python -m spacy download en_core_web_sm`
 
 ## Run code
 
