@@ -5,7 +5,7 @@ dataset/DocRed
 **/output-*
 .DS_Store
 .idea/
-*.txt
+#*.txt
 *.json
 
 ## Place a copy if this at ~/.gitignore_global
