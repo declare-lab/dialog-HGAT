@@ -34,7 +34,7 @@ If you find the code helpful in your research, please cite:
 @article{chen2020dialogue,
   title={Dialogue relation extraction with document-level heterogeneous graph attention networks},
   author={Chen, Hui and Hong, Pengfei and Han, Wei and Majumder, Navonil and Poria, Soujanya},
-  journal={arXiv preprint arXiv:2009.05092},
-  year={2020}
+  journal={Cognitive Computation},
+  year={2022}
 }
 ```
